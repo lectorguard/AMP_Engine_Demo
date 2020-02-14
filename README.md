@@ -2,7 +2,7 @@
  AMP stands for Android, Multiplayer and Physics.
  This engine is currently under development, so not all features are already existing yet.
  The finished engine will allow the creation of mobile games with similar game mechanics to Angry Birds.
- Phyisic based games with a strong multiplayer component are targeted with the feature complete engine.
+ Physic based games with a strong multiplayer component are targeted with the feature complete engine.
 ## Current Major Features
 - Android Rendering
 - Post Processing
